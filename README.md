@@ -1,7 +1,8 @@
 # Build Twitch with Next JS and Tailwind CSS _Bonus NextAuth.js_
 
-I recreate Twitch in Next.JS styled with Tailwind CSS and as a bonus we will even add NextAuth.js for authentication using Github & Google! .
-Learn the Next.JS basics of next.js routing and the Image component as we take advantage of lazy loading images! We will be creating everything from scratch and even using some mock data from https://mockaroo.com and utilizing Headless UI!
+Twitch in Next.JS with Tailwind CSS and as a bonus we will even add NextAuth.js for authentication using Github & Google! .
+Learn the Next.JS routing and the Image component as we take advantage of lazy loading images!
+using some mock data from https://mockaroo.com and utilizing Headless UI!
 
 # Deploy
 
