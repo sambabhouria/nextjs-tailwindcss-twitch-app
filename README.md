@@ -1,4 +1,4 @@
-# Build Twitch with Next JS and Tailwind CSS _Bonus NextAuth.js_(Github & Google!, )
+# Build Twitch with Next JS and Tailwind CSS _Bonus NextAuth.js_(Github & Google, Facebook,Apple)
 
 Learn the Next.JS routing and the Image component as we take advantage of lazy loading images!
 using some mock data from https://mockaroo.com and utilizing Headless UI!
