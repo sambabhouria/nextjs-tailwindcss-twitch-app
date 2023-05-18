@@ -19,10 +19,10 @@ using some mock data from https://mockaroo.com and utilizing Headless UI!
 
 💻 Screen shot 💻
 
-![alt text](screen.gif)
+![alt text](0.gif)
+![alt text](00.png)
+![alt text](00.png)
 ![alt text](1.png)
 ![alt text](2.png)
 ![alt text](3.png)
 ![alt text](4.png)
-![alt text](5.png)
-![alt text](6.png)
